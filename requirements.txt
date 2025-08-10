@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+aiohttp==3.9.1
+asyncio
+sqlite3
+logging
+datetime
+typing
+json
+os
